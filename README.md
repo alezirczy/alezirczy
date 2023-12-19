@@ -1,16 +1,21 @@
-### Hi there 👋
+# 🗺 Alejandro Zirczy Portfolio
 
-<!--
-**alezirczy/alezirczy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data portfolio! Here, I document some of my analysis of DataBases.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Table of Contents
+- [SQL](#sql)
+- [PowerBi](#tableau)
+- [Python](#python)
+
+***
+
+# SQL
+
+| Project Link | <center>Area of Analysis<center>| <center>Notes</center> | 
+|---|---|---|
+| [⚽Analyzing global soccer leagues over seasons.](https://github.com/katiehuangx/8-Week-SQL-Challenge)| <center>Data analysis&nbsp;&nbsp; </center>  |The **complexity** of queries in this database lies in the structure of the tables and the relationship between them, **especially in the context of the fact table (match)**, since, when obtaining detailed information about the matches, they **include names of local and visiting teams and their respective goals, where <span style="border-bottom: 1px solid;">the duplicity</span> of this information** add complexity when relating it to other tables, since each match has two sets of related data. Therefore, in many cases it becomes necessary to manage the duplication of information in the fact table, performing multiple joins, applying conditional expressions such as those used in CASE functions and aggregation functions,  organizing the logic through the use of CTEs. 
+
+
+***
