@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document some of my analysis of DataBases.
 
 ## 📚 Table of Contents
 - [SQL](#sql)
-- [Power Bi](#PowerBi)
+- [Power Bi](#Power Bi)
 - [Python](#python)
 
 ***
